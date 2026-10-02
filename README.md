@@ -210,13 +210,11 @@ npm run lint
 
 ## Deployment
 
-The application will be deployed as a static web application.
+The application is deployed on Render as a static site.
 
 Production URL:
 
-```text
-Coming soon
-```
+[System Log Analyzer](https://system-log-analyzer-s629.onrender.com)
 
 ## Future Improvements
 
