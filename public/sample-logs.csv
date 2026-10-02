@@ -1,0 +1,21 @@
+timestamp,service,severity,message
+2026-10-02T08:00:00,auth-service,INFO,User authentication successful
+2026-10-02T08:05:00,api-service,INFO,Request completed successfully
+2026-10-02T08:10:00,database,WARNING,High connection pool usage
+2026-10-02T08:15:00,auth-service,ERROR,Invalid authentication token
+2026-10-02T08:20:00,payment-service,INFO,Payment request processed
+2026-10-02T08:25:00,api-service,WARNING,Response time exceeded threshold
+2026-10-02T08:30:00,database,ERROR,Database connection timeout
+2026-10-02T08:35:00,auth-service,WARNING,Multiple failed login attempts
+2026-10-02T08:40:00,notification-service,INFO,Email notification sent
+2026-10-02T08:45:00,api-service,DEBUG,Request payload validation completed
+2026-10-02T08:50:00,payment-service,ERROR,Payment provider unavailable
+2026-10-02T08:55:00,database,INFO,Database connection restored
+2026-10-02T09:00:00,notification-service,WARNING,Email delivery delayed
+2026-10-02T09:05:00,auth-service,DEBUG,Session token refreshed
+2026-10-02T09:10:00,api-service,INFO,Health check completed
+2026-10-02T09:15:00,database,WARNING,Query execution time above threshold
+2026-10-02T09:20:00,payment-service,INFO,Payment provider connection restored
+2026-10-02T09:25:00,notification-service,ERROR,Notification service connection failed
+2026-10-02T09:30:00,api-service,INFO,Request completed successfully
+2026-10-02T09:35:00,auth-service,ERROR,Account temporarily locked
